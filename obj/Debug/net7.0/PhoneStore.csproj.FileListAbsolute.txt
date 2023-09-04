@@ -29,3 +29,7 @@ C:\CA Advanced Programming\PhoneStore\obj\Debug\net7.0\refint\PhoneStore.dll
 C:\CA Advanced Programming\PhoneStore\obj\Debug\net7.0\PhoneStore.pdb
 C:\CA Advanced Programming\PhoneStore\obj\Debug\net7.0\PhoneStore.genruntimeconfig.cache
 C:\CA Advanced Programming\PhoneStore\obj\Debug\net7.0\ref\PhoneStore.dll
+C:\CA Advanced Programming\PhoneStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\CA Advanced Programming\PhoneStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CA Advanced Programming\PhoneStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\CA Advanced Programming\PhoneStore\obj\Debug\net7.0\PhoneStore.csproj.CopyComplete

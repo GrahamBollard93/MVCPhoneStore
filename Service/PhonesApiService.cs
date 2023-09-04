@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc.Routing;
+/*using Microsoft.AspNetCore.Mvc.Routing;
 using PhoneStore.Models;
 using PhoneStore.Service;
 
@@ -19,4 +19,4 @@ public class PhoneApiService : IPhonesApiService
     {
         return await _httpClient.GetFromJsonAsync<IEnumerable<Product>>("/api/v1/products");
     }
-}
+} */
